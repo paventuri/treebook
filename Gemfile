@@ -28,6 +28,9 @@ gem 'turbolinks'
 gem 'devise'
 gem 'protected_attributes'
 
+# Simple form
+gem 'simple_form'
+
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
 
