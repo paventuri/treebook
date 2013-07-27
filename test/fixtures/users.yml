@@ -3,3 +3,9 @@ paulo:
   last_name: "Venturi"
   profile_name: "paventuri"
   email: "paulo.venturi@gmail.com"
+
+wronguser:
+  first_name: "Wrong"
+  last_name: "User"
+  profile_name: "wrong"
+  email: "wrong@gmail.com"

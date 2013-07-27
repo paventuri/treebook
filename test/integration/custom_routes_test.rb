@@ -19,4 +19,10 @@ class CustomRoutesTest < ActionDispatch::IntegrationTest
 
   	assert_response :success
   end
+
+  test "that /:id opens the profile page for that user" do
+    get "/paventuri"
+
+    assert_response :success
+  end  
 end
