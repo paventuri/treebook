@@ -36,9 +36,7 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-group :production do
-  gem 'pg'
-end
+gem 'pg'
 
 group :development, :test do
 	# Use sqlite3 as the database for Active Record
